@@ -1,0 +1,14 @@
+
+body {
+    background-color: #f7f8fc;
+    background-image: url('./images/bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+}
